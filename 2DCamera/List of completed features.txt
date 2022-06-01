@@ -1,0 +1,16 @@
+1. Selection: Mouse pick
+
+2. Position manipulation: Mouse drag
+
+3. Orientation manipulation: Mouse rotate
+
+4. Editing: Add, Delete
+
+5. View: Zoom(*), Pan
+
+6. Combo: Camera&Mouse, Camera&Creation 1, Camera&Creation 2, Exact pan(?)
+
+
+Duplicate doesn't work, because I have trouble importing the clone function, but I wrote the function which should (?) work if .clone() worked and cloned the instance.
+I also think duplication may be solved by copying the whole selectedgameObject arraylist, but I didn't find the method of copying the arraylist.
+
