@@ -9,5 +9,5 @@ As of yet, these projects were only hosted as an http localhost.
 
 The repo includes:
 -a 2D Camera usage project
--a 2D game (quite unfinished)
+-a 2D game (working, but misses on some features)
 -3D projects.
